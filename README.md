@@ -40,15 +40,12 @@ cd GYM-nextjs-projects-2-intership-p2pclouds
 Install dependencies:
 
 bash
-Copy code
 npm install
 Run the development server:
 
 bash
-Copy code
 npm run dev
 Open your browser:
 
 arduino
-Copy code
 http://localhost:3000
